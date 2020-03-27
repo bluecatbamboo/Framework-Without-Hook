@@ -12,3 +12,4 @@ It is a react framework without hooks vr.16.7
 - Redux-thunk
 - Axios/Middleware
 - more components
+- Breadcrumb
